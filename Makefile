@@ -1,2 +1,2 @@
 all:
-	gcc -o fuck_discord fuck_discord.c -Wall -Wextra -Werror -O3
+	gcc -o fuck_discord_service fuck_discord_service.c -O3

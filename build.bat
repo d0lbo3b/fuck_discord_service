@@ -1,0 +1,1 @@
+gcc fuck_discord_service.c -o fuck_discord_service -O3
